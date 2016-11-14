@@ -1,0 +1,27 @@
+{
+  "name": "tiny-component",
+  "version": "1.0.0",
+  "description": "small library for implement basic component approach",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliaksandr-master/tiny-component.git"
+  },
+  "keywords": [
+    "component",
+    "tiny",
+    "like-react",
+    "components",
+    "templater",
+    "modular"
+  ],
+  "author": "alxe_master",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliaksandr-master/tiny-component/issues"
+  },
+  "homepage": "https://github.com/aliaksandr-master/tiny-component#readme"
+}
