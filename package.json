@@ -1,6 +1,6 @@
 {
   "name": "tiny-component",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "small library for implement basic component approach",
   "main": "lib/index.js",
   "scripts": {
